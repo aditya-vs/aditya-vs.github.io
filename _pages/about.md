@@ -9,8 +9,11 @@ redirect_from:
 ---
 
 ## About Me
-I am a [Prime Minister's Research Fellow](https://pmrf.in/) in the Department of Electrical Communication Engineering, [Indian Institute of Science](https://iisc.ac.in/), where I am being advised by [Prof. Himanshu Tyagi](https://ece.iisc.ac.in/~htyagi/). Before starting my PhD in 2019, I completed my M.Tech (Research) in the Department of Electrical Engineering, Indian Institute of Science, under the supervision of [Prof. Kunal Narayan Chaudhury](https://sites.google.com/site/kunalnchaudhury/). My research interests are in the areas of statistics, information theory, and optimization. I am currently working on problems in information-constrained statistical inference.  
+I am a [Prime Minister's Research Fellow](https://pmrf.in/) in the Department of Electrical Communication Engineering, [Indian Institute of Science](https://iisc.ac.in/), where I am being advised by [Prof. Himanshu Tyagi](https://ece.iisc.ac.in/~htyagi/). Before starting my PhD in 2019, I completed my M.Tech (Research) in the Department of Electrical Engineering, Indian Institute of Science, under the supervision of [Prof. Kunal Narayan Chaudhury](https://sites.google.com/site/kunalnchaudhury/).   
 
+**Research:** My research interests lie in statistics, information theory, and optimization. Currently, I am working on problems in information-constrained statistical inference.  
+
+**Email:** adityavs [at] iisc [dot] ac [dot] in
 
 ## Publications
 - **On Uniquely Registrable Networks** [[ArXiv]](https://arxiv.org/abs/1906.09714)  
