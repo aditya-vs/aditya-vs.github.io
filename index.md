@@ -2,7 +2,7 @@
 
 <dl>
 <table class="imgtable"><tr><td>
-<img src="pic3.jpg" alt="Picture" width="300px" height="300px" />&nbsp;</td>
+<img src="pic3.jpg" alt="Picture" width="500px" height="300px" />&nbsp;</td>
 <td align="left"><p><b>Aditya Vikram Singh</b> <br />
 <br /> <br />
   
