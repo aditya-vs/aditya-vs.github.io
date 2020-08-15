@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-IN"
-title                    : "Aditya"
+title                    : ""
 title_separator          : "-"
 name                     : &name "Aditya Vikram Singh"
 description              : &description "PhD student, ECE, IISc"
