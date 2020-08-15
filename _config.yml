@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-IN"
-title                    : "Aditya Vikram Singh"
+title                    : "Aditya"
 title_separator          : "-"
 name                     : &name "Aditya Vikram Singh"
 description              : &description "PhD student, ECE, IISc"
@@ -81,9 +81,9 @@ analytics:
 # Site Author
 author:
   name             : "Aditya Vikram Singh"
-  avatar           : "pic3.jpg"
+  avatar           : 
   bio              : "PhD student, ECE, IISc"
-  location         : "Bengaluru"
+  location         : 
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
