@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Aditya Vikram Singh"
-  avatar           : "images/pic3.jpg"
+  avatar           : "/images/pic3.jpg"
   bio              : "PhD student, ECE, IISc"
   location         : "Bengaluru"
   employer         :
