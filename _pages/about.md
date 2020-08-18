@@ -9,14 +9,14 @@ redirect_from:
 ---
 
 ## About Me
-I am a [Prime Minister's Research Fellow](https://pmrf.in/) in the Department of Electrical Communication Engineering, [Indian Institute of Science](https://iisc.ac.in/), where I am being advised by [Prof. Himanshu Tyagi](https://ece.iisc.ac.in/~htyagi/). Before starting my PhD in 2019, I completed my M.Tech (Research) in the Department of Electrical Engineering, Indian Institute of Science, under the supervision of [Prof. Kunal Narayan Chaudhury](https://sites.google.com/site/kunalnchaudhury/).   
+I am a [Prime Minister's Research Fellow](https://pmrf.in/) in the Department of Electrical Communication Engineering, [Indian Institute of Science](https://iisc.ac.in/), where I am being advised by [Prof. Himanshu Tyagi](https://ece.iisc.ac.in/~htyagi/). Before starting my PhD in 2019, I completed my M.Tech (Research) in the Department of Electrical Engineering, Indian Institute of Science, under the supervision of [Prof. Kunal N. Chaudhury](https://sites.google.com/site/kunalnchaudhury/).   
 
 **Research:** My research interests lie in statistics, information theory, and optimization. Currently, I am working on problems in information-constrained statistical inference.  
 
 **Email:** adityavs [at] iisc [dot] ac [dot] in
 
 ## Publications
-- **On Uniquely Registrable Networks** [[ArXiv]](https://arxiv.org/abs/1906.09714)  
+- **On Uniquely Registrable Networks** [[arXiv]](https://arxiv.org/abs/1906.09714)  
 Aditya Vikram Singh, Kunal N. Chaudhury  
 IEEE Transactions on Network Science and Engineering (2019)  
 Oral presentation at [ICASSP 2019](https://ieeexplore.ieee.org/document/8682680)  
@@ -25,7 +25,7 @@ Oral presentation at [ICASSP 2019](https://ieeexplore.ieee.org/document/8682680)
 Rajat Sanyal, Aditya Vikram Singh, Kunal N. Chaudhury  
 Oral presentation at [NCC 2019](https://ieeexplore.ieee.org/document/8732206)  
 
-- **Convergence Analysis of Nonconvex ADMM for Rigid Registration** [[Arxiv]](https://arxiv.org/abs/1907.07729)  
+- **Convergence Analysis of Nonconvex ADMM for Rigid Registration** [[arxiv]](https://arxiv.org/abs/1907.07729)  
 Aditya Vikram Singh, Kunal N. Chaudhury  
 
 
