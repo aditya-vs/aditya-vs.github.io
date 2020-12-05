@@ -20,6 +20,7 @@ My research interests lie in statistics, information theory, and optimization. C
 Statistical inference problems ask us to make some inference about a probabilistic source, given access to $n$ samples from it. In the distributed setting, the samples are distributed across multiple agents (players), who send messages to a central referee (center). Based on these messages, the center must make some inference about the probabilistic source. What makes distributed inference challenging are the constraints on the communication-link between the players and the center. One such constraint is where a player can send only an $\ell$-bit message to the center, as depicted in the figure below.
 
 <center><img src="/images/diststat.JPG" width="400" height="400"></center>
+<center>CaptionCaption</center>
 
 We are interested in characterizing the sample complexity of statistical inference in this setting: Given an inference problem, what is the *minimum number of players* required for the center to solve the problem? Moreover, we want to *design optimal protocols* that the players and the center can implement to accomplish the inference task at hand. Currently, we are looking at two specific distributed inference problems under communication constraint:
 
