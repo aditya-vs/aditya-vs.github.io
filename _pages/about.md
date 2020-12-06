@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 ## About Me
-I am a [Prime Minister's Research Fellow](https://pmrf.in/) (May 2019 batch) in the Department of Electrical Communication Engineering, [Indian Institute of Science](https://iisc.ac.in/), where I am being advised by [Prof. Himanshu Tyagi](https://ece.iisc.ac.in/~htyagi/). Before starting my PhD in 2019, I completed my M.Tech (Research) in the Department of Electrical Engineering, Indian Institute of Science, under the supervision of [Prof. Kunal N. Chaudhury](https://sites.google.com/site/kunalnchaudhury/).
+I am a [Prime Minister's Research Fellow](https://pmrf.in/) (May 2019 batch) in the Department of Electrical Communication Engineering, Indian Institute of Science, where I am being advised by [Prof. Himanshu Tyagi](https://ece.iisc.ac.in/~htyagi/). Before starting my PhD in 2019, I completed my M.Tech (Research) in the Department of Electrical Engineering, Indian Institute of Science, under the supervision of [Prof. Kunal N. Chaudhury](https://sites.google.com/site/kunalnchaudhury/).
 
 **Email:** adityavs [at] iisc [dot] ac [dot] in
 
