@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Aditya Vikram Singh"
   avatar           : "mypic.jpeg"
-  bio              : "PhD Student, Department of ECE, Indian Institute of Science"                      
+  bio              : PhD Student, <a href="https://ece.iisc.ac.in/">Department of ECE</a>, <a href="https://iisc.ac.in/">Indian Institute of Science</a>                      
   location         : 
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
