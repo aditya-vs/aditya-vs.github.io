@@ -13,8 +13,9 @@ I am a [Prime Minister's Research Fellow](https://pmrf.in/) (May 2019 batch) in 
 
 **Email:** adityavs [at] iisc [dot] ac [dot] in
 
+**Research:** My research interests lie in statistics, information theory, and optimization. Currently, I am working on problems in distributed statistical inference under communication constraint.
 
-## Research
+<!-- ## Research
 My research interests lie in statistics, information theory, and optimization. Currently, I am working on problems in distributed statistical inference under communication constraint.
 
 Statistical inference problems ask us to make some inference about a probabilistic source, given access to $n$ samples from it. In the distributed setting, the samples are distributed across multiple agents (players), who send messages to a central referee (center). Based on these messages, the center must make some inference about the probabilistic source. What makes distributed inference challenging are the constraints on the communication-link between the players and the center. One such constraint is where a player can send only an $\ell$-bit message to the center, as depicted in the figure below.
@@ -35,7 +36,7 @@ I have credited the following courses during my PhD.
 - Online Learning and Prediction
 - Stochastic Processes and Queuing Theory
 - Topics in Stochastic Approximation
-- Foundations of Data Science
+- Foundations of Data Science -->
 
 
 ## Teaching
