@@ -39,11 +39,6 @@ I have credited the following courses during my PhD.
 - Foundations of Data Science -->
 
 
-## Teaching
-- TA for [Information Theory (2020)](https://ece.iisc.ac.in/~htyagi/course-E2201-2020.html) 
-- TA for [NPTEL course on Information Theory (2020)](https://nptel.ac.in/courses/108/108/108108168/#) 
-
-
 ## Publications
 - **On Uniquely Registrable Networks** [[arXiv]](https://arxiv.org/abs/1906.09714)  
 Aditya Vikram Singh, Kunal N. Chaudhury  
@@ -56,6 +51,10 @@ Oral presentation at [NCC 2019](https://ieeexplore.ieee.org/document/8732206)
 
 - **Convergence Analysis of Nonconvex ADMM for Rigid Registration** [[arxiv]](https://arxiv.org/abs/1907.07729)  
 Aditya Vikram Singh, Kunal N. Chaudhury  
+
+
+## Teaching
+TA for [Information Theory (2020)](https://ece.iisc.ac.in/~htyagi/course-E2201-2020.html), [NPTEL course on Information Theory (2020)](https://nptel.ac.in/courses/108/108/108108168/#) 
 
 
 ## Thesis  
