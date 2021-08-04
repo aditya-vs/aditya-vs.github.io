@@ -6,11 +6,11 @@ main:
   - title: "Publications"
     url: \#publications
 
-  - title: "Courses"
-    url: \#courses
+  #- title: "Courses"
+   # url: \#courses
 
   - title: "Teaching"
     url: \#teaching
 
-  - title: "CV"
-    url: /files/AdityaVSingh_CV.pdf
+  #- title: "CV"
+   # url: /files/AdityaVSingh_CV.pdf
