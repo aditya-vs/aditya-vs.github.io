@@ -49,7 +49,7 @@ Aditya Vikram Singh, Kunal N. Chaudhury
 IEEE Transactions on Network Science and Engineering (2019)  
 Oral presentation at [ICASSP 2019](https://ieeexplore.ieee.org/document/8682680)  
 
-- **An Iterative Eigensolver for Rank-Constrained Semidefinite Programming** [[manuscript]](/files/nccpaper.pdf)
+- **An Iterative Eigensolver for Rank-Constrained Semidefinite Programming** [[manuscript]](/files/nccpaper.pdf)  
 Rajat Sanyal, Aditya Vikram Singh, Kunal N. Chaudhury  
 Oral presentation at [NCC 2019](https://ieeexplore.ieee.org/document/8732206)  
 
