@@ -46,7 +46,7 @@ Accepted for poster presentation at NeurIPS 2021
 
 - **On Uniquely Registrable Networks** [[arXiv]](https://arxiv.org/abs/1906.09714)  
 Aditya Vikram Singh, Kunal N. Chaudhury  
-IEEE Transactions on Network Science and Engineering (2019)  
+IEEE Transactions on Network Science and Engineering (2020)  
 Oral presentation at [ICASSP 2019](https://ieeexplore.ieee.org/document/8682680)  
 
 - **An Iterative Eigensolver for Rank-Constrained Semidefinite Programming** [[manuscript]](/files/nccpaper.pdf)  
