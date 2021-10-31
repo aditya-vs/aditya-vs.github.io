@@ -13,7 +13,7 @@ I am a [Prime Minister's Research Fellow](https://pmrf.in/) (May 2019 batch) in 
 
 **Email:** adityavs [at] iisc [dot] ac [dot] in
 
-**Research:** My research interests lie in statistics, information theory, and optimization. Currently, I am working on problems in distributed statistical inference under communication constraint.
+**Research:** My research interests lie in statistics, information theory, and optimization. Currently, I am working on problems in distributed statistical inference under information constraints.
 
 <!-- ## Research
 My research interests lie in statistics, information theory, and optimization. Currently, I am working on problems in distributed statistical inference under communication constraint.
@@ -40,12 +40,16 @@ I have credited the following courses during my PhD.
 
 
 ## Publications
+- **Optimal Rates for Nonparametric Density Estimation under Communication Constraints** [[arXiv]](https://arxiv.org/abs/2107.10078)  
+Jayadev Acharya, Cl&eacute;ment L. Canonne, Aditya Vikram Singh, Himanshu Tyagi
+Accepted for poster presentation at NeurIPS 2021
+
 - **On Uniquely Registrable Networks** [[arXiv]](https://arxiv.org/abs/1906.09714)  
 Aditya Vikram Singh, Kunal N. Chaudhury  
 IEEE Transactions on Network Science and Engineering (2019)  
 Oral presentation at [ICASSP 2019](https://ieeexplore.ieee.org/document/8682680)  
 
-- **An Iterative Eigensolver for Rank-Constrained Semidefinite Programming**  
+- **An Iterative Eigensolver for Rank-Constrained Semidefinite Programming** [[manuscript]](/files/nccpaper.pdf)
 Rajat Sanyal, Aditya Vikram Singh, Kunal N. Chaudhury  
 Oral presentation at [NCC 2019](https://ieeexplore.ieee.org/document/8732206)  
 
@@ -54,7 +58,8 @@ Aditya Vikram Singh, Kunal N. Chaudhury
 
 
 ## Teaching
-TA for [Information Theory (2020)](https://ece.iisc.ac.in/~htyagi/course-E2201-2020.html), [NPTEL course on Information Theory (2020)](https://nptel.ac.in/courses/108/108/108108168/#) 
+- TA for [Information Theory (2020)](https://ece.iisc.ac.in/~htyagi/course-E2201-2020.html), [NPTEL course on Information Theory (2020)](https://nptel.ac.in/courses/108/108/108108168/#) 
+- TA for [NPTEL course on Concentration Inequalities (2021)](https://nptel.ac.in/courses/108/108/108108181/)
 
 
 ## Thesis  
