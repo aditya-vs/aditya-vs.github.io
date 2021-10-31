@@ -13,7 +13,7 @@ I am a [Prime Minister's Research Fellow](https://pmrf.in/) (May 2019 batch) in 
 
 **Email:** adityavs [at] iisc [dot] ac [dot] in
 
-**Research:** My research interests lie in statistics, information theory, and optimization. Currently, I am working on problems in distributed statistical inference under information constraints.
+**Research:** My research interests lie in statistics, information theory, and optimization. Currently, I am working on problems in distributed statistical inference under information constraints. Examples of information constraints include communication constraints, privacy constraints, constraints on data-access (for instance, can access only certain linear measurements of high-dimensional data). The goal of my research is to design provably optimal algorithms (optimal in terms of, say, sample complexity) in non-asymptotic regime for statistical tasks in information-constrained settings, the ultimate goal being to abstract out a unifying principle at work behind such algorithms.
 
 <!-- ## Research
 My research interests lie in statistics, information theory, and optimization. Currently, I am working on problems in distributed statistical inference under communication constraint.
