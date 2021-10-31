@@ -41,7 +41,7 @@ I have credited the following courses during my PhD.
 
 ## Publications
 - **Optimal Rates for Nonparametric Density Estimation under Communication Constraints** [[arXiv]](https://arxiv.org/abs/2107.10078)  
-Jayadev Acharya, Cl&eacute;ment L. Canonne, Aditya Vikram Singh, Himanshu Tyagi
+Jayadev Acharya, Cl&eacute;ment L. Canonne, Aditya Vikram Singh, Himanshu Tyagi  
 Accepted for poster presentation at NeurIPS 2021
 
 - **On Uniquely Registrable Networks** [[arXiv]](https://arxiv.org/abs/1906.09714)  
