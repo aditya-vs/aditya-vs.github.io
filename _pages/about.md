@@ -40,7 +40,7 @@ I have credited the following courses during my PhD.
 
 
 ## Preprints and Publications
-- **Continual Mean Estimation Under User-Level Privacy** [[arxiv]](https://arxiv.org/abs/2212.09980)
+- **Continual Mean Estimation Under User-Level Privacy** [[arxiv]](https://arxiv.org/abs/2212.09980)  
 Anand J. George, Lekshmi Ramesh, Aditya Vikram Singh, Himanshu Tyagi
 
 - **Optimal Rates for Nonparametric Density Estimation under Communication Constraints** [[arXiv]](https://arxiv.org/abs/2107.10078)  
