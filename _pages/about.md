@@ -39,7 +39,10 @@ I have credited the following courses during my PhD.
 - Foundations of Data Science -->
 
 
-## Publications
+## Preprints and Publications
+- **Continual Mean Estimation Under User-Level Privacy** [[arxiv]](https://arxiv.org/abs/2212.09980)
+Anand J. George, Lekshmi Ramesh, Aditya Vikram Singh, Himanshu Tyagi
+
 - **Optimal Rates for Nonparametric Density Estimation under Communication Constraints** [[arXiv]](https://arxiv.org/abs/2107.10078)  
 Jayadev Acharya, Cl&eacute;ment L. Canonne, Aditya Vikram Singh, Himanshu Tyagi  
 Accepted for poster presentation at NeurIPS 2021
@@ -58,7 +61,7 @@ Aditya Vikram Singh, Kunal N. Chaudhury
 
 
 ## Teaching
-- TA for [Information Theory (2020)](https://ece.iisc.ac.in/~htyagi/course-E2201-2020.html), [NPTEL course on Information Theory (2020)](https://nptel.ac.in/courses/108/108/108108168/#) 
+- TA for [Information Theory (2020)](https://ece.iisc.ac.in/~htyagi/course-E2201-2020.html), [NPTEL course on Information Theory (2020/2022)](https://nptel.ac.in/courses/108/108/108108168/#) 
 - TA for [NPTEL course on Concentration Inequalities (2021)](https://nptel.ac.in/courses/108/108/108108181/)
 
 
